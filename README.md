@@ -44,11 +44,11 @@ max_marks(list1):
 
 ## Output:
 # To find the maximum of marks using the list method sort()
-![GitHub Logo](sort.png)
+![GitHub Logo](sort1.png)
 # To find the maximum marks using the list method max().
-![GitHub Logo](max.png)
+![GitHub Logo](max1.png)
 # To find the maximum marks without using builtin functions.
-![GitHub Logo](builtin.png)
+![GitHub Logo](builtin1.png)
 
 
 ## Result:
